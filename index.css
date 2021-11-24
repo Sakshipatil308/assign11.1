@@ -1,0 +1,15 @@
+.contacts{
+    position: fixed;
+    width: 400px;
+    height: 400px;
+    background-color: aquamarine;
+    top: 200px;
+    left:200px;
+    overflow: scroll;
+    
+}
+.sticky{
+    position: sticky;
+    background-color: cadetblue;
+    top: 0;
+}
